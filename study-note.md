@@ -1,4 +1,4 @@
-# End Time : 2023/1/9 下午 2:00
+# End Time : 2023/1/9 14:00
 # Docker Study Note
 ***
 ##### Windows application - Virutal Box 

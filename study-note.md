@@ -33,7 +33,7 @@ __Query__
 >`docker pull [container name]` 
 
 __Run a Docker container based on this image.__
->`docker run [container name] [options] [arguments]`  
+>`docker run [options] IMAGE [command] [arguments]`  
 
 __Show all containers that are currently running.__
 >`docker ps`  or `docker ps -a`

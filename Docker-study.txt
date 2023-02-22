@@ -1,0 +1,26 @@
+*docker compose
+*Resberry PI 1
+*CPU dynamic resource control
+1.K8S
+
+- Task offloading
+- Egde computing
+
+FIFO
+priority
+fair
+
+
+Title: <Resource Management Schemes for Cloud Native Platforms with Computing Containers of Docker and Kubernetes>
+//	Cloud-native
+	Indiviual platform with different workloads -> reduce completion time
+	test experiments: Deep learning and containerized big data
+	
+Title: <A Kubernetes-Based Monitoring Platform for Dynamic Cloud Resource Provisioning>
+	{Kubernetes cluster : nodes(Docker containers) and master}
+	Contual automatically dynamic resource-provisionin with algorithm 
+	Platform:
+		- Pod (cluster)
+		- Kubelet (node agent) monitor nodes through master. Maintain pods
+		- 
+		
